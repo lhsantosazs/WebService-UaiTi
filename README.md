@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ZendSkeletonApplication
 =======================
 
@@ -75,3 +76,16 @@ project and you should be ready to go! It should look something like below:
             Allow from all
         </Directory>
     </VirtualHost>
+=======
+<<<<<<< HEAD
+WebService-REST-ZF2
+===================
+
+Projeto de teste para UaiTi
+=======
+WebService-UaiTi
+================
+
+Teste
+>>>>>>> 5e9b363840d6b8d77c32428a73e43a4957828332
+>>>>>>> 54a9ad6ebcabcd02949aeac3c1fddf7f2feb93d3
