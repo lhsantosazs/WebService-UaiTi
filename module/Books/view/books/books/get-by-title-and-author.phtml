@@ -1,0 +1,12 @@
+<?php
+
+$i = 0;
+echo "[";
+
+foreach ($books as $book) :
+    if ($i++ > 0) echo ',';
+    echo "{ title: '" . $book->title . "', author: '" . $book->author . "'}";
+endforeach;
+
+echo "]";
+?>
